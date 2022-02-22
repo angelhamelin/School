@@ -27,7 +27,7 @@ How to code a visual novel game through renpy:
 I can teach someone how to code a renpy game that contains:
 
 \- An input for player's name
-```Python
+```Renpy
 $ player_name = renpy.input("What is my name?")
 $ player_name = player_name.strip()
 
@@ -36,7 +36,7 @@ $ player_name = "Player"
 ```
 
 \- A exam with conditional statements
-```Python
+```Renpy
 $ answer1 = renpy.input("What is 2+2?")
 if answer1 == "4":
     $ test += 1
@@ -46,7 +46,7 @@ else:
 ```
 
 \- Pause statements
-```Python
+```Renpy
 scene black
 "No university wanted to accept you due to your horrible grades. Your mom kicked you out of the house for scoring so bad in your exam and accused you to be adopted. Maybe you should have studied." 
 "You become a street beggar."
