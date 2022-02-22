@@ -362,7 +362,7 @@ label exam:
 
 label easy:
 
-$ answer1 = renpy.input("What is 2+2?")
+    $ answer1 = renpy.input("What is 2+2?")
     if answer1 == "4":
         $ test += 1
     if answer1 == "4":
