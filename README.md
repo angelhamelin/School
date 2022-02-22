@@ -32,7 +32,7 @@ $ player_name = renpy.input("What is my name?")
 $ player_name = player_name.strip()
 
 if player_name == "":
-$ player_name = "Player"
+    $ player_name = "Player"
 ```
 
 \- A exam with conditional statements
