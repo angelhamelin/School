@@ -2,9 +2,9 @@
 
 ## Members of the team
 
-\- He Jin <small>(coded day 2)<small>
+\- He Jin <sup><sub>(coded day 2)<sub><sup>
 
-\- Angel Zhou <small>(coded day 1)<small>
+\- Angel Zhou <sup><sub>(coded day 1)<sub><sup>
 
 ## Things I have learned
 
