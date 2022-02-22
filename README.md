@@ -2,7 +2,7 @@
 
 ## Members of the team
 
-\- He Jin <sub>(coded day 2)<sub>
+\- He Jin <small>(coded day 2)<small>
 
 \- Angel Zhou <sub>(coded day 1)<sub>
 
