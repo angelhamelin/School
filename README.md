@@ -35,7 +35,7 @@ if player_name == "":
     $ player_name = "Player"
 ```
 
-\- A exam with conditional statements
+\- An exam with conditional statements
 ```Renpy
 $ answer1 = renpy.input("What is 2+2?")
 if answer1 == "4":
